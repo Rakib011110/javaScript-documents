@@ -988,7 +988,7 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 
 </details> 
 
-# javaScript-ES6-31
+# javaScript-ES6
 <details>
 <summary>
   <h3>What is ES6 ? (Click Me)</h3>
@@ -1324,7 +1324,9 @@ console.log(numbers4);
 ```
 
 </details>
+
 # optional-chaining
+
 <details>
 <summary>
   <h3>What is optional chaining  ? (Click Me)</h3>
@@ -1471,11 +1473,11 @@ class Instructor {
 ```
 
 
-# JavaScript-Api-practice  
 
 </details>
 
 
+# JavaScript-Api-practice  
 
 
 <details>
