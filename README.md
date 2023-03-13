@@ -16,8 +16,8 @@
 List of JavaScript:
 
 - [](#)
-- [JavaScript-Array-Condition-18 ](#JavaScript-Array-Condition)
-- [](#)
+- [JavaScript-Array-Condition-](#Array-Condition)
+- [Array-Condition](#JavaScript-Array-Condition)
 - [](#)
 - [](#) 
 - [](#)  
@@ -264,11 +264,11 @@ console.log(sum);
 </details> 
 
 
-## JavaScript-Array-Condition-18 
+## JavaScript-Array-Condition
 
+### Array-Condition
 
 </details>
-### JavaScript-Array-Condition-18 
 
 
 <details>
