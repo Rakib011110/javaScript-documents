@@ -1614,6 +1614,10 @@ class Instructor {
 
 ```
 
+
+</details>
+
+
 <details>
 <summary>
   <h3>What is JSON ? (Click Me)</h3>
@@ -2108,8 +2112,5 @@ function checkAge() {
 
 ```js
 
-```
-
-</details>
-
-
+``` 
+</details> 
