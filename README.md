@@ -820,13 +820,10 @@ console.log("Eating lunch");
 console.log("Watching JS tutorial");
 startFan();
 ```
-
 </details>
 
-### parameters
 
-< details >
-
+<details>
 <summary>
   <h3>function  parameters ? (Click Me)</h3>
 </summary>
@@ -857,12 +854,10 @@ function sum(a, b, c, d, e) {
 
 sum(15, 98, 56, 5, 9);
 ```
-
 </details>
 
 ### javaScript return
-
-    < details >
+ <details>
 
 <summary>
   <h3>javaScript return
@@ -903,7 +898,7 @@ console.log(singaras);
 
 ### demo
 
-< details >
+<details>
 
 <summary>
   <h3>What is  Object? (Click Me)</h3>
