@@ -606,7 +606,6 @@ if (math == true) {
 </details>
 
 </details>
-- [ while-loop](#while-loop)
 
 ### while-loop
 
@@ -652,12 +651,7 @@ if (math == true) {
 //     roastGiven++
 // }
 
-var codingAmonDiteHobe = 0;
-while (codingAmonDiteHobe < 1) {
-  console.log("Coding A Mon Bosbi Kemne Mon To Sadiyar kase🙂");
-  console.log(codingAmonDiteHobe);
-  roastGiven + 2;
-}
+
 ```
 
 ### even
