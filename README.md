@@ -266,9 +266,9 @@ console.log(sum);
 
 ## JavaScript-Array-Condition-18 
 
-### JavaScript-Array-Condition-18 
 
 </details>
+### JavaScript-Array-Condition-18 
 
 
 <details>
