@@ -1679,7 +1679,6 @@ console.log(shopObj);
 # explore-Javascript-object
  
 
-
 <details>
 <summary>
   <h3> Way to create js Obejct ? (Click Me)</h3>
@@ -1756,7 +1755,15 @@ const person = new Person("John", 30, { city: "New York", country: "USA" });
 
 
 
-﻿# more-Javascript-concept
+
+
+
+
+
+
+
+# more-Javascript-concept 
+
 <details>
 <summary>
   <h3> JavaScript Engine V8 Internal mechanism
@@ -2104,3 +2111,5 @@ function checkAge() {
 ```
 
 </details>
+
+
