@@ -6,7 +6,7 @@
 
 ### what is javaScript?
 
-- JavaScript is high level, interpreted programming language used to make web pages more interactive. JavaScript is a dynamic programming language that's used for web development, web applications, game development, and lots more. JavaScript language is used both on the client-side and server-side allowing you to make web pages interactive.
+- JavaScript is a high-level, dynamic programming language used to make web pages more interactive. It is commonly employed in web development, web applications, game development, and various other domains. JavaScript is versatile, as it can be used both on the client-side and server-side, enabling the creation of interactive web pages and robust web applications. Its flexibility and extensive ecosystem of frameworks and libraries make JavaScript a popular choice among developers.
 - JavaScript হলো একটি scripting অথবা programming language যা সাধারনত কোন ওয়েবসাইটে ব্যবহার করা হয়। এই language কে আবার client-side scripting language ও বলা হয় কারণ এর সোর্স কোড গুলো process হয় Client এর web browser দিয়ে।
 
 ### Why use JavaScript?
